@@ -5,3 +5,4 @@ Git tracks changes of files.
 My stupid boss still pprefers SVN.
 Create a new branch is quick and simple.
 Test no fast forword.
+Test bug branch.
